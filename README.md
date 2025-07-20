@@ -48,3 +48,19 @@ GDP per capita showed weak correlation, but a trend is still observable in log s
 
 Log transformation was useful to handle skewed data distributions in infection rates.
 
+
+## 📸 Visuals
+
+### 1. GDP per Capita vs Max Infection Rate
+![GDP](images/Covid19-1.png)
+
+### 2. Social Support vs Max Infection Rate
+![Social Support](images/Covid19-2.png)
+
+### 3. Freedom to Make Life Choices vs Max Infection Rate
+![Freedom](images/Covid19-3.png)
+
+### 4. Correlation Heatmap of Life Factors
+![Heatmap](images/Covid19-4.png)
+
+
