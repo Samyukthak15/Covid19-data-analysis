@@ -48,3 +48,8 @@ GDP per capita showed weak correlation, but a trend is still observable in log s
 
 Log transformation was useful to handle skewed data distributions in infection rates.
 
+
+## 👩‍💻 Author
+**Samyuktha Kotagiri**  
+[Portfolio](https://www.notion.so/Samyuktha_Data_Analyst_Portfolio-235e7d4043968025a867d60ac97b64b8)
+
