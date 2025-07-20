@@ -52,15 +52,15 @@ Log transformation was useful to handle skewed data distributions in infection r
 ## 📸 Visuals
 
 ### 1. GDP per Capita vs Max Infection Rate
-![GDP](images%20of%20Covid19%20analysis/Covid19-1.png)
+![GDP](Images%20of%20Covid19%20analysis/Covid19-1.png)
 
 ### 2. Social Support vs Max Infection Rate
-![Social Support](images%20of%20Covid19%20analysis/Covid19-2.png)
+![Social Support](Images%20of%20Covid19%20analysis/Covid19-2.png)
 
 ### 3. Freedom to Make Life Choices vs Max Infection Rate
-![Freedom](images%20of%20Covid19%20analysis/Covid19-3.png)
+![Freedom](Images%20of%20Covid19%20analysis/Covid19-3.png)
 
 ### 4. Correlation Heatmap of Life Factors
-![Heatmap](images%20of%20Covid19%20analysis/Covid19-4.png)
+![Heatmap](Images%20of%20Covid19%20analysis/Covid19-4.png)
 
 
